@@ -1,5 +1,6 @@
 .unslate_co--section {
 	padding: 3.5rem 0;
+	overflow: hidden !important;
 	@include media-breakpoint-down(sm) {
 		padding: 2rem 0;
 	}

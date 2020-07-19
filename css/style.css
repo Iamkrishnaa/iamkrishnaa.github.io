@@ -181,9 +181,9 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .unslate_co--site-logo {
-  font-size: 1.7rem;
+  font-size: 2.0rem;
   color: #fff;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .unslate_co--site-nav .unslate_co--site-logo span {
@@ -1119,6 +1119,7 @@ a, a:hover {
 
 @media (max-width: 767.98px) {
   .unslate_co--section {
+    overflow: hidden;
     padding: 2rem 0;
   }
 }
