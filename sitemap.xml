@@ -1,70 +1,53 @@
-<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-<loc>https://krishna-adhikari.com.np</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/#</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/#home-section</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/#portfolio-section</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/#about-section</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/#services-section</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/index.html</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/#skills-section</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/#testimonial-section</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/#contact-section</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/portfolio-guidetotermux.html</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/portfolio-iysnepal.html</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/portfolio-agritech.html</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/portfolio-ifrs.html</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/portfolio-wya.html</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/portfolio-notesofcomputer.html</loc>
-<changefreq>always</changefreq>
-</url>
-<url>
-<loc>https://krishna-adhikari.com.np/documents/cv_krishna.pdf</loc>
-<changefreq>always</changefreq>
-</url>
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://krishna-adhikari.com.np</loc>
+    <lastmod>2020-07-22</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://krishna-adhikari.com.np/</loc>
+    <lastmod>2020-07-22</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://krishna-adhikari.com.np/portfolio-agritech.html</loc>
+    <lastmod>2020-07-22</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://krishna-adhikari.com.np/portfolio-notesofcomputer.html</loc>
+    <lastmod>2020-07-22</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://krishna-adhikari.com.np/index.html</loc>
+    <lastmod>2020-07-22</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://krishna-adhikari.com.np/documents/cv_krishna.pdf</loc>
+    <lastmod>2020-07-22</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://krishna-adhikari.com.np/portfolio-ifrs.html</loc>
+    <lastmod>2020-07-22</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://krishna-adhikari.com.np/portfolio-guidetotermux.html</loc>
+    <lastmod>2020-07-22</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://krishna-adhikari.com.np/portfolio-wya.html</loc>
+    <lastmod>2020-07-22</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://krishna-adhikari.com.np/portfolio-iysnepal.html</loc>
+    <lastmod>2020-07-22</lastmod>
+    <changefreq>always</changefreq>
+  </url>
 </urlset>
