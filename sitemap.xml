@@ -1,4 +1,6 @@
-<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" 
+        xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
 <loc>https://krishna-adhikari.com.np</loc>
 <changefreq>always</changefreq>
@@ -66,5 +68,15 @@
 <url>
 <loc>https://krishna-adhikari.com.np/documents/cv_krishna.pdf</loc>
 <changefreq>always</changefreq>
+</url>
+<url>
+   <loc>https://example.com/mens-hats</loc>
+   <lastmod>2018-10-12</lastmod>
+   <image:image>
+      <image:loc>https://krishna-adhikari.com.np/images/cover_bg.png</image:loc>
+      <image:caption>Krishna Adhikari</image:caption>
+      <image:geo_location>Nepal, Pokhara</image:geo_location>
+      <image:title>Krishna Adhikari</image:title>
+   </image:image>
 </url>
 </urlset>
