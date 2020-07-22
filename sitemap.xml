@@ -12,6 +12,21 @@
 <changefreq>always</changefreq>
 </url>
 <url>
+    <loc>https://krishna-adhikari.com.np/index.html</loc>
+    <image:image>
+      <image:loc>https://krishna-adhikari.com.np/images/about_img.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://krishna-adhikari.com.np/images/cover_bg.png</image:loc>
+    </image:image>
+  <image:image>
+      <image:loc>https://krishna-adhikari.com.np/images/cover_bg.png</image:loc>
+    </image:image>
+  <image:image>
+      <image:loc>https://krishna-adhikari.com.np/images/cover.png</image:loc>
+    </image:image>
+  </url>
+<url>
 <loc>https://krishna-adhikari.com.np/#portfolio-section</loc>
 <changefreq>always</changefreq>
 </url>
