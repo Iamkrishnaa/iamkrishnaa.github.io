@@ -1119,6 +1119,8 @@ a, a:hover {
 
 @media (max-width: 767.98px) {
   .unslate_co--section {
+    clear:  both !important;
+    z-index: 9999999999;
     overflow: hidden;
     padding: 2rem 0;
   }
@@ -1770,7 +1772,7 @@ figure.dotted-bg:before {
 
 @media (max-width: 991.98px) {
   .unslate_co--footer .footer-site-social li {
-    display: block;
+    display: inline-block;
   }
 }
 
