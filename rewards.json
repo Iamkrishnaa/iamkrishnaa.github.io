@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Krishna Adhikari",
+            "rewardAmount": "500",
+            "rewardTitle":"Dashian Reward",
+            "rewardDate": "2020/08/06"
+        },
+        {
             "name":"Aashish Adhikari",
             "rewardAmount": "1000",
             "rewardTitle":"Weekly Reward",
