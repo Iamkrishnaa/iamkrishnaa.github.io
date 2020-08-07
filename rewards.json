@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Indra Karki",
+            "rewardAmount": "200",
+            "rewardTitle":"New User Reward",
+            "rewardDate": "2020/08/06"
+        },
+        {
             "name":"Kabita Adhikari",
             "rewardAmount": "200",
             "rewardTitle":"New User Reward",
