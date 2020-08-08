@@ -7,6 +7,54 @@
             "picture": "http://i3.ytimg.com/vi/0AYhC_cyNU0/hqdefault.jpg"
         },
         {
+            "name":"Termux Basic Commands Tutorial",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=FpDW47Zw7QM&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto",
+            "picture": "http://i3.ytimg.com/vi/FpDW47Zw7QM/hqdefault.jpg"
+        },
+        {
+            "name":"ShellPhish Tool in Android Termux (Epsiode -2 )",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=2W6jlb17dBQ&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=2",
+            "picture": "hhttp://i3.ytimg.com/vi/2W6jlb17dBQ/maxresdefault.jpg"
+        },
+        {
+            "name":"BlackEye Tool for Termux in Android (Episode - 3)",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=KjPfBaDc5J4&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=3",
+            "picture": "http://i3.ytimg.com/vi/KjPfBaDc5J4/maxresdefault.jpg"
+        },
+        {
+            "name":"Weeman Tool for Termux in Android (Episode -4)",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=Xjs4IFsAzo4&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=4",
+            "picture": "http://i3.ytimg.com/vi/Xjs4IFsAzo4/maxresdefault.jpg"
+        },
+        {
+            "name":"Red Hawk Tool for Termux in Android (Episode - 5)",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=ADlWPKzw3Pk&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=5",
+            "picture": "http://i3.ytimg.com/vi/ADlWPKzw3Pk/maxresdefault.jpg"
+        },
+        {
+            "name":"IP GeoLocation - Trace Ip Tool for Termux In Android (Episode - 6)",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=zsbkKf_DMfc&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=6",
+            "picture": "http://i3.ytimg.com/vi/zsbkKf_DMfc/maxresdefault.jpg"
+        },
+        {
+            "name":"Tool-X for Termux in Android(No Root) Episode -7",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=V6YTepSs3aM&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=7",
+            "picture": "http://i3.ytimg.com/vi/V6YTepSs3aM/maxresdefault.jpg"
+        },
+        {
+            "name":"Social Box In Termux (Root) Android",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=QvUpdPMhriQ&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=8",
+            "picture": "http://i3.ytimg.com/vi/QvUpdPMhriQ/hqdefault.jpg"
+        },
+        {
             "name":"Make Persistent Metasploit Apk In Linux Or Termux",
             "about": "Hacker's King",
             "videoLink": "https://www.youtube.com/watch?v=30TX5GhDUMI",
