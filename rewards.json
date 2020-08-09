@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Aashish Adhikari",
+            "rewardAmount": "200",
+            "rewardTitle":"Stay Home Reward",
+            "rewardDate": "2020/08/08"
+        },
+        {
             "name":"Indra Karki",
             "rewardAmount": "200",
             "rewardTitle":"New User Reward",
