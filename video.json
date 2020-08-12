@@ -109,16 +109,58 @@
             "picture": "http://i3.ytimg.com/vi/DxV6Je91Poo/hqdefault.jpg"
         },
         {
+            "name":"Make Persistent Metasploit Apk In Linux Or Termux",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=30TX5GhDUMI&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=23",
+            "picture": "http://i3.ytimg.com/vi/30TX5GhDUMI/maxresdefault.jpg"
+        },
+        {
             "name":"Mob-Droid Tool In Android Tutorial",
             "about": "Hacker's King",
             "videoLink": "https://www.youtube.com/watch?v=jgRIh_NBfC8&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=18",
             "picture": "http://i3.ytimg.com/vi/jgRIh_NBfC8/maxresdefault.jpg"
         },
         {
-            "name":"Make Persistent Metasploit Apk In Linux Or Termux",
+            "name":"WishFish Tool In Android",
             "about": "Hacker's King",
-            "videoLink": "https://www.youtube.com/watch?v=30TX5GhDUMI",
-            "picture": "http://i3.ytimg.com/vi/30TX5GhDUMI/hqdefault.jpg"
+            "videoLink": "https://www.youtube.com/watch?v=NWASk0Xh2zA&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=19",
+            "picture": "http://i3.ytimg.com/vi/NWASk0Xh2zA/maxresdefault.jpg"
+        },
+        {
+            "name":"Black-Water Host Custom Webpage In Linux or Termux",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=QWvJn-yxOuM&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=20",
+            "picture": "http://i3.ytimg.com/vi/QWvJn-yxOuM/maxresdefault.jpg"
+        },
+        {
+            "name":"IPCam-Scanner v2 Tool For Termux (No Root)",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=6mD1iIAJcDs&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=21",
+            "picture": "http://i3.ytimg.com/vi/6mD1iIAJcDs/maxresdefault.jpg"
+        },
+        {
+            "name":"SayHello Tool For Termux(No Root)",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=KKKU5akLpOg&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=22",
+            "picture": "http://i3.ytimg.com/vi/KKKU5akLpOg/maxresdefault.jpg"
+        },
+        {
+            "name":"SqlMap In Android Tutorial - Termux",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=bB1KFRCv2SE&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=27",
+            "picture": "http://i3.ytimg.com/vi/bB1KFRCv2SE/hqdefault.jpg"
+        },
+        {
+            "name":"Apktool in Android Termux ( Reverse Engineering)",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=M4TjcNxoiFA&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=29",
+            "picture": "http://i3.ytimg.com/vi/M4TjcNxoiFA/hqdefault.jpg"
+        },
+        {
+            "name":"Scrap Premium Accounts From Google Using Termux",
+            "about": "Hacker's King",
+            "videoLink": "https://www.youtube.com/watch?v=kud9aP_uVMg&list=PL5mdWdvxw11Cu1IjC_uP85n_OuU7vAyto&index=41",
+            "picture": "http://i3.ytimg.com/vi/kud9aP_uVMg/hqdefault.jpg"
         }
     ]
 
