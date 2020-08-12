@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Charles Lowrey",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/12"
+        },
+        {
             "name":"Vladimir Shumilov",
             "rewardAmount": "200",
             "rewardTitle":"Weekly Reward",
