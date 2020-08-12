@@ -2,9 +2,15 @@
     "data": [
         {
             "name":"Ethical Hacking With Android",
-            "about": "Hacker's King",
+            "about": "Intro Video About this tool",
             "videoLink": "https://www.youtube.com/watch?v=0AYhC_cyNU0",
             "picture": "http://i3.ytimg.com/vi/0AYhC_cyNU0/hqdefault.jpg"
+        },
+        {
+            "name":"METASPLOIT- The Baap Of Every Tool | Termux Tutorials | No Root | Hindi",
+            "about": "Bhavik Tutorial",
+            "videoLink": "https://www.youtube.com/watch?v=y2EJ_ZMWHjg",
+            "picture": "http://i3.ytimg.com/vi/y2EJ_ZMWHjg/maxresdefault.jpg"
         },
         {
             "name":"Termux Basic Commands Tutorial",
