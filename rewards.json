@@ -1,6 +1,18 @@
 {
     "rewardData": [
         {
+            "name":"SHIVA KUMAR GUNDEBOINA",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/14"
+        },
+        {
+            "name":"Jerone Mccartney",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/13"
+        },
+        {
             "name":"Charles Lowrey",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
