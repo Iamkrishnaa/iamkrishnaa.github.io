@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Lavanya Karri",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/16"
+        },
+        {
             "name":"Mohamed Basuony",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
