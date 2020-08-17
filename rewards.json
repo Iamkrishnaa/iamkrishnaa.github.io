@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"wecroods son",
+            "rewardAmount": "24000",
+            "rewardTitle":"Premium User Reward",
+            "rewardDate": "2020/08/17"
+        },
+        {
             "name":"Amitadatta Dallai",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
