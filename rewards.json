@@ -1,16 +1,17 @@
 {
     "rewardData": [
-        {
+         {
             "name":"Abhishek Kumar",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
             "rewardDate": "2020/08/18"
          },
+       
          {
             "name":"wecroods son",
             "rewardAmount": "24000",
             "rewardTitle":"Premium User Reward",
-            "rewardDate": "2020/08/17
+            "rewardDate": "2020/08/17"
          },
         {
             "name":"Amitadatta Dallai",
