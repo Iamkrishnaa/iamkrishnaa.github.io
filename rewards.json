@@ -1,6 +1,12 @@
 {
     "rewardData": [
          {
+            "name":"Aman Deep",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/19"
+         },
+         {
             "name":"Abhishek Kumar",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
