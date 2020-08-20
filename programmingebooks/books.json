@@ -7,6 +7,14 @@
             "book_pages":"353",
             "book_size":"13.8 Mb",
             "book_price":"Premium"
+        },
+        {
+            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/flutterinaction.pdf",
+            "book_name":"Java for Android Development",
+            "book_pages":"353",
+            "book_size":"13.8 Mb",
+            "book_price":"Free"
         }
     ]
 }
