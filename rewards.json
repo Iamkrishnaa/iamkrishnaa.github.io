@@ -1,5 +1,11 @@
 {
     "rewardData": [
+        {
+            "name":"Sangam Wosti",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/20"
+         },
          {
             "name":"Aman Deep",
             "rewardAmount": "200",
