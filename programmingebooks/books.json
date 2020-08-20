@@ -1,11 +1,11 @@
 {
     "books":[
         {
-            "image_url":"",
-            "book_link":"",
-            "book_name":"",
-            "book_pages":"",
-            "book_size":""
+            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/flutterinaction.pdf",
+            "book_name":"Flutter In Action",
+            "book_pages":"353",
+            "book_size":"13.8 Mb"
         }
     ]
 }
