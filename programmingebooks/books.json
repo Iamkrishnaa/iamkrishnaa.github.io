@@ -6,7 +6,8 @@
             "book_name":"Flutter In Action",
             "book_pages":"353",
             "book_size":"13.8 Mb",
-            "book_price":"Premium"
+            "book_price":"Premium",
+            "book_price_amount":"3"
         },
         {
             "image_url":"https://freepdf-books.com/doc-images/5136.png",
@@ -14,7 +15,8 @@
             "book_name":"Java for Android Development",
             "book_pages":"353",
             "book_size":"13.8 Mb",
-            "book_price":"Free"
+            "book_price":"Free",
+            "book_price_amount":"0"
         }
     ]
 }
