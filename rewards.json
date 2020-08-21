@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Amit Saroj",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/21"
+         },
+        {
             "name":"Sangam Wosti",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
