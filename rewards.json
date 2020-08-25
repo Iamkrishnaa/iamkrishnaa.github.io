@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Dark Devil",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/25"
+         },
+        {
             "name":"Eddie Smith",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
