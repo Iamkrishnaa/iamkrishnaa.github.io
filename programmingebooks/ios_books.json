@@ -7,7 +7,8 @@
             "book_pages":"353",
             "book_size":"13.8 MB",
             "book_price":"Free",
-            "book_price_amount":"30"
+            "book_price_amount":"30",
+            "about_book":"This is about author"
         },
         {
             "image_url":"https://freepdf-books.com/doc-images/5136.png",
@@ -16,7 +17,8 @@
             "book_pages":"353",
             "book_size":"13.8 MB",
             "book_price":"Premium",
-            "book_price_amount":"10"
+            "book_price_amount":"10",
+            "about_book":"This is about author"
         }
     ]
 }
