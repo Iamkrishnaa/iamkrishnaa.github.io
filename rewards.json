@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Alan Shaji",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/26"
+         },
+        {
             "name":"Dark Devil",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
