@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Ahmad Antoni Yusuf",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/28"
+         },
+        {
             "name":"Mike Widdow",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
