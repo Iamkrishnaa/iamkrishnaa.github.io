@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Kein Plan",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/230"
+         },
+        {
             "name":"محمد موسى",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
