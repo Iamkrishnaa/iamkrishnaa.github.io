@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Abdo Zidan",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/08/31"
+         },
+        {
             "name":"Kein Plan",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
