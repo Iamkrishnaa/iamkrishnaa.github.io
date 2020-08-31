@@ -6,7 +6,8 @@
             "book_pages":"353",
             "book_size":"13.8 Mb",
             "book_price":"Premium",
-            "book_price_amount":"3"
+            "book_price_amount":"3",
+            "writer":"John Eric"
         },
         {
             "image_url":"https://freepdf-books.com/doc-images/5136.png",
@@ -15,6 +16,7 @@
             "book_pages":"353",
             "book_size":"13.8 Mb",
             "book_price":"Free",
-            "book_price_amount":"0"
+            "book_price_amount":"0",
+            "writer":"John Eric"
         }
 ]
