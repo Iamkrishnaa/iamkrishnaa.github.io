@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Abhishek Kumar",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/01"
+         },
+        {
             "name":"Abdo Zidan",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
