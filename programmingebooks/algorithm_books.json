@@ -1,0 +1,14 @@
+{
+    "books":[
+        {
+            "image_url":"https://goalkicker.com/AlgorithmsBook/AlgorithmsGrow.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/algorithmsnotesforprofessionals.pdf",
+            "book_name":"Algorithm Notes for Professionals",
+            "book_pages":"257",
+            "book_size":"2753940",
+            "book_price":"Free",
+            "book_price_amount":"3",
+            "about_book":"Author: Goalkicker"
+        }
+    ]
+}
