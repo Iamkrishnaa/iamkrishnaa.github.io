@@ -12,13 +12,13 @@
         },
         {
             "image_url":"https://freepdf-books.com/doc-images/5136.png",
-            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/flutterinaction.pdf",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/javaandroidprogramming.pdf",            
             "book_name":"Java for Android Development",
-            "book_pages":"353",
-            "book_size":"14566636",
+            "book_pages":"698",
+            "book_size":"10591372",
             "book_price":"Free",
             "book_price_amount":"0",
-            "about_book":"This is about author"
+            "about_book":"John Horton"
         }
     ]
 }
