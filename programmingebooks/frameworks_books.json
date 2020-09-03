@@ -19,6 +19,26 @@
             "book_price":"Free",
             "book_price_amount":"0",
             "about_book":"GoalKicker"
+        },
+        {
+            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/angular2notesforprofessionals.pdf",
+            "book_name":"Angular 2+ Notes For Professionals",
+            "book_pages":"232",
+            "book_size":"1801305",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"GoalKicker"
+        },
+        {
+            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/angularjsnotesforprofessionals.pdf",
+            "book_name":"AngularJS Notes For Professionals",
+            "book_pages":"201",
+            "book_size":"2186398",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"GoalKicker"
         }
     ]
 }
