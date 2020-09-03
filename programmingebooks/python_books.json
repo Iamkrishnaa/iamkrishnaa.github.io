@@ -2,13 +2,13 @@
     "books":[
         {
             "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
-            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/",
-            "book_name":"",
-            "book_pages":"",
-            "book_size":"",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/pythoncrashcourse.pdf",
+            "book_name":"Python Crash Course",
+            "book_pages":"562",
+            "book_size":"5641523",
             "book_price":"Free",
             "book_price_amount":"0",
-            "about_book":"GoalKicker"
+            "about_book":"Eric Matthes"
         }
         
     ]
