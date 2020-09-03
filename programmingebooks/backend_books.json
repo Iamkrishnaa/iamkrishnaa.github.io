@@ -39,6 +39,16 @@
             "book_price":"Free",
             "book_price_amount":"0",
             "about_book":"GoalKicker"
+        },
+        {
+            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/nodejsnotesforprofessionals.pdf",
+            "book_name":"Node.js Notes For Professionals",
+            "book_pages":"334",
+            "book_size":"2928861",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"GoalKicker"
         }
     ]
 }
