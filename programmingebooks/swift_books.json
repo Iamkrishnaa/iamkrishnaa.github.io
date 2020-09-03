@@ -2,23 +2,14 @@
     "books":[
         {
             "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
-            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/flutterinaction.pdf",
-            "book_name":"Flutter In Action",
-            "book_pages":"353",
-            "book_size":"14566636",
-            "book_price":"Premium",
-            "book_price_amount":"3",
-            "about_book":"This is about author"
-        },
-        {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
-            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/flutterinaction.pdf",
-            "book_name":"Java for Android Development",
-            "book_pages":"353",
-            "book_size":"14566636",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/swiftnotesforprofessionals.pdf",
+            "book_name":"Swift Notes For Professionals",
+            "book_pages":"291",
+            "book_size":"2827617",
             "book_price":"Free",
             "book_price_amount":"0",
-            "about_book":"This is about author"
+            "about_book":"GoalKicker"
         }
+        
     ]
 }
