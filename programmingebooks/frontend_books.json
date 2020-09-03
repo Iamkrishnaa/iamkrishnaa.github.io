@@ -39,6 +39,16 @@
             "book_price":"Free",
             "book_price_amount":"0",
             "about_book":"GoalKicker"
+        },
+        {
+            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/reactjsnotesforprofessionals.pdf",
+            "book_name":"React JS Notes For Professionals",
+            "book_pages":"110",
+            "book_size":"1055852",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"GoalKicker"
         }
     ]
 }
