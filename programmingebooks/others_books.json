@@ -42,10 +42,20 @@
         },
         {
             "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
-            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/perlnotesforprofessionals.pdff",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/perlnotesforprofessionals.pdf",
             "book_name":"Perl Notes For Professionals",
             "book_pages":"129",
             "book_size":"1219955",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"GoalKicker"
+        },
+        {
+            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/powershellnotesforprofessionals.pdf",
+            "book_name":"PowerShell Notes For Professionals",
+            "book_pages":"184",
+            "book_size":"1799905",
             "book_price":"Free",
             "book_price_amount":"0",
             "about_book":"GoalKicker"
