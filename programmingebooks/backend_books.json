@@ -12,16 +12,6 @@
         },
         {
             "image_url":"https://freepdf-books.com/doc-images/5136.png",
-            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/fluttersuccinctly.pdf",
-            "book_name":"Flutter Succintly",
-            "book_pages":"129",
-            "book_size":"4701561",
-            "book_price":"Free",
-            "book_price_amount":"0",
-            "about_book":"Ed Freitas"
-        },
-        {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/haskellnotesforprofessionals.pdf",
             "book_name":"Haskell Notes For Professionals",
             "book_pages":"230",
