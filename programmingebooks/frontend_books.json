@@ -1,7 +1,7 @@
 {
     "books":[
         {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/html5notesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/html5notesforprofessionals.pdf",
             "book_name":"HTML5 Notes For Professionals",
             "book_pages":"124",
@@ -11,7 +11,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/html5canvasnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/html5canvasnotesforprofessionals.pdf",
             "book_name":"HTML5 Canvas Notes For Professionals",
             "book_pages":"180",
@@ -20,18 +20,8 @@
             "book_price_amount":"0",
             "about_book":"GoalKicker"
         },
-        {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
-            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/reactjsnotesforprofessionals.pdf",
-            "book_name":"HTML5 Notes For Professionals",
-            "book_pages":"110",
-            "book_size":"1055852",
-            "book_price":"Free",
-            "book_price_amount":"0",
-            "about_book":"GoalKicker"
-        },
-        {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+       {
+            "image_url":"",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/vbnotesforprofessionals.pdf",
             "book_name":"VBA Notes For Professionals",
             "book_pages":"202",
