@@ -1,7 +1,7 @@
 {
     "books":[
         {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/entityframeworknotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/entityframeworknotesforprofessionals.pdf",
             "book_name":"Entity Framework Notes For Professionals",
             "book_pages":"96",
@@ -11,7 +11,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/flutterinaction.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/flutterinaction.pdf",
             "book_name":"Flutter In Action",
             "book_pages":"353",
@@ -21,7 +21,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/fluttersuccinctlynotesforprofessionals.jpg",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/fluttersuccinctly.pdf",
             "book_name":"Flutter Succintly",
             "book_pages":"129",
@@ -31,7 +31,7 @@
             "about_book":"Ed Freitas"
         },
         {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/reactjsnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/cssnotesforprofessionals.pdf",
             "book_name":"React JS Notes For Professionals",
             "book_pages":"244",
@@ -41,7 +41,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/reactnativenotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/reactnativenotesforprofessionals.pdf",
             "book_name":"React Native Notes For Professionals",
             "book_pages":"91",
@@ -51,7 +51,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/springframeworknotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/springframeworknotesforprofessionals.pdf",
             "book_name":"Spring Framework Notes For Professionals",
             "book_pages":"68",
@@ -61,7 +61,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/angular2%2Bnotesforprofessionals.jpg",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/angular2notesforprofessionals.pdf",
             "book_name":"Angular 2+ Notes For Professionals",
             "book_pages":"232",
@@ -71,7 +71,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/angularjsnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/angularjsnotesforprofessionals.pdf",
             "book_name":"AngularJS Notes For Professionals",
             "book_pages":"201",
@@ -81,7 +81,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/vbnetnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/visualbasic_netnotesforprofessionals.pdf",
             "book_name":"Visual Basic .NET Notes for Professionals",
             "book_pages":"149",
@@ -91,7 +91,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/xamarinformsnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/xamarinformsnotesforprofessionals.pdf",
             "book_name":"Xamarin.Forms Notes For Professionals",
             "book_pages":"181",
