@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Alex Aust",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/04"
+         },
+        {
             "name":"Brad Lidell",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
