@@ -1,6 +1,46 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/javascriptdatastructuresandalgorithm.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/javascriptdatastructuresandalgorithm.pdf",
+            "book_name":"Javascript Data Structures and Algorithms",
+            "book_pages":"362",
+            "book_size":"6178638",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Sammie Bae"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/introductiontoalgorithm.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/introductiontoalgorithm.pdf",
+            "book_name":"Introduction to Algorithms",
+            "book_pages":"1313",
+            "book_size":"5621752",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Thomash. Cormen\nCharles E. Leiserson\nRonald L. Rivest\nClifford Stein"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/datastructureandalgorithminpython.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/datastructureandalgorithminpython.pdf",
+            "book_name":"Data Structures & Algorithm in Python",
+            "book_pages":"770",
+            "book_size":"6923998",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Wiley"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/datastructureandalgorithminjava.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/datastructureandalgorithminjava.pdf",
+            "book_name":"Data Structures & Algorithm in Java",
+            "book_pages":"738",
+            "book_size":"10420464",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Wiley"
+        },
+        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/algorithmnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/algorithmsnotesforprofessionals.pdf",
             "book_name":"Algorithm Notes for Professionals",

@@ -1,6 +1,16 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/functionalprogramminginjavascript.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/functionalprogramminginjavascript.pdf",
+            "book_name":"Functional Programming in Javascript",
+            "book_pages":"274",
+            "book_size":"13138052",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Luis atencio"
+        },
+        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/javascriptnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/javascriptnotesforprofessionals.pdf",
             "book_name":"JavaScript Notes For Professionals",

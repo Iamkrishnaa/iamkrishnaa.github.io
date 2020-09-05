@@ -1,5 +1,35 @@
 {
     "books":[
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/phpmysqljavascriptandhtml5.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/phpmysqljavascriptandhtml5.pdf",
+            "book_name":"PHP, MySQL, JS and HTML5",
+            "book_pages":"724",
+            "book_size":"14532893",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Steven Suehring\nJanet Valade"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/phpcookbook.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/phpcookbook.pdf",
+            "book_name":"PHP CookBook",
+            "book_pages":"812",
+            "book_size":"7966373",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Oreilly"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/learningphp.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/learningphp.pdf",
+            "book_name":"Learning PHP",
+            "book_pages":"415",
+            "book_size":"7684512",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: David Sklar"
+        },
        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/phpnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/phpnotesforprofessionals.pdf",

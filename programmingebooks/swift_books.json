@@ -1,6 +1,36 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/theswiftprogramminglanguage.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/theswiftprogramminglanguage.pdf",
+            "book_name":"The Swift Programming Language",
+            "book_pages":"603",
+            "book_size":"6695392",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: null"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/swiftforabsolutebeginner.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/swiftforabsolutebeginner.pdf",
+            "book_name":"Swift 4 the Absolute Beginners",
+            "book_pages":"331",
+            "book_size":"18117344",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Stefan Kaczmarek, Brad Lees, Gary Bennett"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/masteringswift4.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/masteringswift4.pdf",
+            "book_name":"Mastering Swift 4",
+            "book_pages":"381",
+            "book_size":"10223534",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Packt"
+        },
+        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/swiftnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/swiftnotesforprofessionals.pdf",
             "book_name":"Swift Notes For Professionals",

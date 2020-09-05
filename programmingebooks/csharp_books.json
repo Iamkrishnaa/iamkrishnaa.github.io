@@ -1,6 +1,26 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/learncsharp.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/learncsharp.pdf",
+            "book_name":"Learn C#",
+            "book_pages":"425",
+            "book_size":"4103460",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Sam A. Abolrous"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/beginingobjectorientedprogrammingwithcsharp.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/beginingobjectorientedprogrammingwithcsharp.pdf",
+            "book_name":"Begining Object Oriented Programming with C#",
+            "book_pages":"841",
+            "book_size":"11545950",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Jack Purdum"
+        },
+        {
             "image_url":"",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/csharpnotesforprofessionals.pdf",
             "book_name":"C# Notes For Professionals",

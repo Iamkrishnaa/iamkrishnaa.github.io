@@ -1,6 +1,26 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/learntoprogramwithc.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/learntoprogramwithc.pdf",
+            "book_name":"Learn to Program with C",
+            "book_pages":"323",
+            "book_size":"3526094",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Noel Kalicharan"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/cprogramming.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/cprogramming.pdf",
+            "book_name":"C Programming",
+            "book_pages":"443",
+            "book_size":"3034614",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Harry H. Chaudhary"
+        },
+        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/cnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/cnotesforprofessionals.pdf",
             "book_name":"C Notes for Professionals",

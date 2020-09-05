@@ -1,6 +1,46 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/proandroidwithkotlin.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/proandroidwithkotlin.pdf",
+            "book_name":"Pro Android with Kotlin",
+            "book_pages":"500",
+            "book_size":"5688260",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Peter Spath"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/masteringandroidapplicationdevelopment.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/masteringandroidapplicationdevelopment.pdf",
+            "book_name":"Mastering Android Application Development",
+            "book_pages":"298",
+            "book_size":"6645966",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Packt"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/learnandroid3withkotlin.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/learnandroid3withkotlin.pdf",
+            "book_name":"Learn Android studio 3 with kotlin",
+            "book_pages":"480",
+            "book_size":"13268565",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Ted Hagos"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/androidcookbook.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/androidcookbook.pdf",
+            "book_name":"Android CookBook",
+            "book_pages":"766",
+            "book_size":"23916068",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Ian F. Darwin"
+        },
+        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/androidnotesforprofessionals.jpg",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/androidnotesforprofessionals.pdf",
             "book_name":"Android Notes for Professionals",

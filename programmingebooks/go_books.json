@@ -1,24 +1,34 @@
 {
     "books":[
         {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
-            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/flutterinaction.pdf",
-            "book_name":"Flutter In Action",
-            "book_pages":"353",
-            "book_size":"14566636",
-            "book_price":"Premium",
-            "book_price_amount":"3",
-            "about_book":"This is about author"
-        },
-        {
-            "image_url":"https://freepdf-books.com/doc-images/5136.png",
-            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/flutterinaction.pdf",
-            "book_name":"Java for Android Development",
-            "book_pages":"353",
-            "book_size":"14566636",
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/introducinggo.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/introducinggo.pdf",
+            "book_name":"Introducing Go",
+            "book_pages":"124",
+            "book_size":"3109981",
             "book_price":"Free",
             "book_price_amount":"0",
-            "about_book":"This is about author"
+            "about_book":"Author: Caleb Doxsey"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/goweb.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/goweb.pdf",
+            "book_name":"Go Web",
+            "book_pages":"327",
+            "book_size":"1711603",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Luis atencio"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/goinaction.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/goinaction.pdf",
+            "book_name":"Go in Action",
+            "book_pages":"266",
+            "book_size":"9181492",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Manning"
         }
     ]
 }

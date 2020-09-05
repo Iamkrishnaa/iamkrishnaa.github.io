@@ -1,6 +1,16 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/kotlininaction.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/kotlininaction.pdf",
+            "book_name":"Kotlin In Action",
+            "book_pages":"632",
+            "book_size":"8749871",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Manning"
+        },
+        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/kotlinnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/kotlinnotesforprofessionals.pdf",
             "book_name":"Kotlin Notes For Professionals",

@@ -1,6 +1,36 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/kalilinuxwirelesspenetrationtesting.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/kalilinuxwirelesspenetrationtesting.pdf",
+            "book_name":"Kali Linux Wireless Penetration Testing",
+            "book_pages":"214",
+            "book_size":"17741559",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Packt"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/handsonsystemprogrammingwithlinux.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/handsonsystemprogrammingwithlinux.pdf",
+            "book_name":"Hands on System Programming with Linux",
+            "book_pages":"780",
+            "book_size":"11716834",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Kaiwan N Billimoria"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/beginingethicalhackingwithkalilinux.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/beginingethicalhackingwithkalilinux.pdf",
+            "book_name":"Begining Ethical Hacking With Kali Linux",
+            "book_pages":"426",
+            "book_size":"8391779",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Sanjib Sinha"
+        },
+        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/linuxnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/linuxnotesforprofessionals.pdf",
             "book_name":"Linux Notes For Professionals",

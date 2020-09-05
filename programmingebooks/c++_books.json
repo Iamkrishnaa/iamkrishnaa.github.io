@@ -1,6 +1,16 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/learningc++bycreatinggames.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/learningc++bycreatinggames.pdf",
+            "book_name":"Learning C++ by Creating Games",
+            "book_pages":"342",
+            "book_size":"24551791",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Packt"
+        },
+        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/cplusplusnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/cplusplusnotesforprofessionals.pdf",
             "book_name":"C++ Notes for Professionals",

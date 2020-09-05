@@ -1,6 +1,36 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/typescriptmodernjavascriptdevelopment.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/typescriptmodernjavascriptdevelopment.pdf",
+            "book_name":"TypeScript: Modern Javascript Development",
+            "book_pages":"1087",
+            "book_size":"7226075",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Packt"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/protypescript.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/protypescript.pdf",
+            "book_name":"Pro TypeScript",
+            "book_pages":"304",
+            "book_size":"4885488",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Steve Fenton"
+        },
+        {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/angular2developmentwithtypescript.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/angular2developmentwithtypescript.pdf",
+            "book_name":"Angular 2 Development with Typescript",
+            "book_pages":"504",
+            "book_size":"22832262",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Manning"
+        },
+        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/typescriptnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/typescriptnotesforprofessionals.pdf",
             "book_name":"TypeScript Notes For Professionals",

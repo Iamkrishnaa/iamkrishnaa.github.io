@@ -1,6 +1,16 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/prohtml5andcss3designpatterns.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/prohtml5andcss3designpatterns.pdf",
+            "book_name":"Pro HTML5 and CSS3 Design Patterns",
+            "book_pages":"514",
+            "book_size":"12251449",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: Michael Bowers, Dionysios Synodinos and Victor Summer"
+        },
+        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/html5notesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/html5notesforprofessionals.pdf",
             "book_name":"HTML5 Notes For Professionals",

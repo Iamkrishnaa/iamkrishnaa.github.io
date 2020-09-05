@@ -1,6 +1,16 @@
 {
     "books":[
         {
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/gitessentials.png",
+            "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/gitessentials.pdf",
+            "book_name":"Git Essentials",
+            "book_pages":"326",
+            "book_size":"7711503",
+            "book_price":"Free",
+            "book_price_amount":"0",
+            "about_book":"Author: BroadView"
+        },
+        {
             "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/gitnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/gitnotesforprofessionals.pdf",
             "book_name":"Git Notes For Professionals",
