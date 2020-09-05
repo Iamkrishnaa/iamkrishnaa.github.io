@@ -1,7 +1,7 @@
 {
     "books":[
         {
-            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/iosnotesforprofessionals.png",
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/iosnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/iosnotesforprofessionals.pdf",
             "book_name":"iOS Developer Notes For Professionals",
             "book_pages":"893",
@@ -10,6 +10,5 @@
             "book_price_amount":"0",
             "about_book":"GoalKicker"
         }
-       
     ]
 }
