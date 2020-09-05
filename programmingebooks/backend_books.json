@@ -1,7 +1,7 @@
 {
     "books":[
        {
-            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/phpnotesforprofessionals.png",
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/phpnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/phpnotesforprofessionals.pdf",
             "book_name":"PHP Notes For Professionals",
             "book_pages":"481",
@@ -11,7 +11,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/haskellnotesforprofessionals.png",
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/haskellnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/haskellnotesforprofessionals.pdf",
             "book_name":"Haskell Notes For Professionals",
             "book_pages":"230",
@@ -21,7 +21,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/nodejsnotesforprofessionals.png",
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/nodejsnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/nodejsnotesforprofessionals.pdf",
             "book_name":"Node.js Notes For Professionals",
             "book_pages":"334",
