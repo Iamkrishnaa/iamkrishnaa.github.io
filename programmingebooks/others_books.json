@@ -1,7 +1,7 @@
 {
     "books":[
         {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/bashnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/bashnotesforprofessionals.pdf",
             "book_name":"Bash Notes For Professionals",
             "book_pages":"204",
@@ -11,7 +11,7 @@
             "about_book":"GoalKicker"
         },
          {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/excelvbanotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/excelivbanotesforprofessionals.pdf",
             "book_name":"Excel VBA Notes For Professionals",
             "book_pages":"128",
@@ -21,7 +21,7 @@
             "about_book":"GoalKicker"
         },
          {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/hibernatenotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/hibernatenotesforprofessionals.pdf",
             "book_name":"Hibernate Notes for Professionals",
             "book_pages":"39",
@@ -31,7 +31,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/latexnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/latexnotesforprofessionals.pdf",
             "book_name":"LaTeX Notes For Professionals",
             "book_pages":"60",
@@ -41,7 +41,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/perlnotesforprofessionals.jpg",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/perlnotesforprofessionals.pdf",
             "book_name":"Perl Notes For Professionals",
             "book_pages":"129",
@@ -51,7 +51,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/powershellnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/powershellnotesforprofessionals.pdf",
             "book_name":"PowerShell Notes For Professionals",
             "book_pages":"184",
@@ -61,7 +61,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://images.manning.com/book/d/9e6b9af-e8b5-40a9-a508-489df174dd33/Windmill-Flutter-HI.png",
+            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/rnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/rnotesforprofessionals.pdf",
             "book_name":"R Notes For Professionals",
             "book_pages":"475",
