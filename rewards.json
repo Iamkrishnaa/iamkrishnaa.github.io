@@ -1,5 +1,11 @@
 {
     "rewardData": [
+         {
+            "name":"David Rockeffeler",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/05"
+         },
         {
             "name":"Alex Aust",
             "rewardAmount": "200",
