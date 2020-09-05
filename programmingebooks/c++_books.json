@@ -1,7 +1,7 @@
 {
     "books":[
         {
-            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/cplusplusnotesforprofessionals.png",
+            "image_url":"https:///programmingebooks/photos/cplusplusnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/cplusplusnotesforprofessionals.pdf",
             "book_name":"C++ Notes for Professionals",
             "book_pages":"708",
@@ -10,6 +10,5 @@
             "book_price_amount":"0",
             "about_book":"GoalKicker"
         }
-        
     ]
 }
