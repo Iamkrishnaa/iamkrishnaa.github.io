@@ -1,7 +1,7 @@
 {
     "books":[
         {
-            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/sqlnotesforprofessionals.png",
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/sqlnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/sqlnotesforprofessionals.pdf",
             "book_name":"SQL Notes for Professionals",
             "book_pages":"166",
@@ -11,7 +11,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/mysqlnotesforprofessionals.png",
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/mysqlnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/mysqlnotesforprofessionals.pdf",
             "book_name":"MySQL Notes for Professionals",
             "book_pages":"199",
@@ -21,7 +21,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/microsoftsqlservernotesforprofessionals.png",
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/microsoftsqlservernotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/microsoftsqlservernotesforprofessionals.pdf",
             "book_name":"Microsoft SQL Notes for Professionals",
             "book_pages":"286",
@@ -31,7 +31,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/postgresqlnotesforprofessionals.png",
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/postgresqlnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/postgresqlnotesforprofessionals.pdf",
             "book_name":"PostgreSQL Notes For Professionals",
             "book_pages":"74",
@@ -41,7 +41,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/mongodbnotesforprofessionals.png",
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/mongodbnotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/mongodbnotesforprofessionals.pdf",
             "book_name":"MongoDB Notes for Professionals",
             "book_pages":"73",
@@ -51,7 +51,7 @@
             "about_book":"GoalKicker"
         },
         {
-            "image_url":"https://github.com/Iamkrishnaa/iamkrishnaa.github.io/blob/master/programmingebooks/photos/oracledatabasenotesforprofessionals.png",
+            "image_url":"https://krishna-adhikari.com.np/programmingebooks/photos/oracledatabasenotesforprofessionals.png",
             "book_link":"https://krishna-adhikari.com.np/programmingebooks/books/oracledatabasenotesforprofessionals.pdf",
             "book_name":"Oracle Database Notes For Professionals",
             "book_pages":"118",
