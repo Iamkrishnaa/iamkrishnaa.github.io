@@ -1,6 +1,12 @@
 {
     "rewardData": [
-         {
+          {
+            "name":"Chit Paing",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/07"
+         },
+        {
             "name":"Yash Gupta",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
