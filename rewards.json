@@ -1,6 +1,12 @@
 {
     "rewardData": [
-           {
+ {
+            "name":"Benjamin Barlow",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/09"
+         },
+        {
             "name":"Manish Raj",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
