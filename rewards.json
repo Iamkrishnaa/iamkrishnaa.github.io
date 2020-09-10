@@ -1,5 +1,11 @@
 {
     "rewardData": [
+         {
+            "name":"Dhakar Boy",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/10"
+         },
         {
             "name":"Benjamin Barlow",
             "rewardAmount": "200",
