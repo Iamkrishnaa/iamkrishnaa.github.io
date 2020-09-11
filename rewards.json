@@ -1,6 +1,12 @@
 {
     "rewardData": [
          {
+            "name":"Yangsen Matshu",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/10"
+         },
+        {
             "name":"Dhakar Boy",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
