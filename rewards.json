@@ -1,6 +1,12 @@
 {
     "rewardData": [
          {
+            "name":"Dr Hacker",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/12"
+         },
+        {
             "name":"Yangsen Matshu",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
