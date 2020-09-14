@@ -1,6 +1,12 @@
 {
     "rewardData": [
-         {
+          {
+            "name":"Dwight Lariscy",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/13"
+         },
+        {
             "name":"Clinton Dempsey",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
