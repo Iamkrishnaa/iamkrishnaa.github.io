@@ -1,10 +1,16 @@
 {
     "rewardData": [
-          {
+        {
+            "name":"Hacker Guru",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/15"
+         },
+        {
             "name":"Dwight Lariscy",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
-            "rewardDate": "2020/09/13"
+            "rewardDate": "2020/09/14"
          },
         {
             "name":"Clinton Dempsey",
