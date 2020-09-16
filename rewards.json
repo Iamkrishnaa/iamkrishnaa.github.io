@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Anand Kumar Maurya",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/16"
+         },
+        {
             "name":"Hacker Guru",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
