@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Anthony J. W",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/17"
+         },
+        {
             "name":"Anand Kumar Maurya",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
