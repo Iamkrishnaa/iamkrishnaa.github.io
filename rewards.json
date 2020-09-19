@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"ACC BODO",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/19"
+         },
+        {
             "name":"Guitni Abdallah",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
