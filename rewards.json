@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Aadhi Kabi",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/20"
+         },
+        {
             "name":"ACC BODO",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
