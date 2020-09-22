@@ -1,6 +1,12 @@
 {
     "rewardData": [
         {
+            "name":"Abhishek Poonia",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/22"
+         },
+        {
             "name":"Reza Abbaszade",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
