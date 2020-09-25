@@ -1,6 +1,18 @@
 {
     "rewardData": [
         {
+            "name":"Binita Adhikari",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/25"
+         },
+        {
+            "name":"Aditya Biradar",
+            "rewardAmount": "200",
+            "rewardTitle":"Daily Reward",
+            "rewardDate": "2020/09/24"
+         },
+        {
             "name":"Abdoulaye Bathil",
             "rewardAmount": "200",
             "rewardTitle":"Daily Reward",
